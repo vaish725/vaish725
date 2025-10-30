@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=vaish725&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 🔭 I'm currently studying MS in Computer Science at **The George Washington University**.
+- 🔭 I'm currently studying MS in Computer Science at **The George Washington University** and working as a **AI Engineer Intern** at **Schnell AI Inc.**
 
 - 🌱 My experience spans across **ML Model development, Cloud architecture, and Full-Stack development**.
 
