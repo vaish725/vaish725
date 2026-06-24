@@ -1,16 +1,14 @@
 <h1 align="center">Hi! 👋 I'm Vaishnavi!</h1>
-<h3 align="center">Computer Science student passionate about working in Computer vision and Software development.</h3>
+<h3 align="center">Computer Science grad passionate about working in Software development.</h3>
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=vaish725&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 🔭 I'm currently studying MS in Computer Science at **The George Washington University** and working as a **AI Engineer Intern** at **Schnell AI Inc.**
+- 🔭 I recently finished MS in Computer Science at **The George Washington University** 
 
-- 🌱 My experience spans across **ML Model development, Cloud architecture, and Full-Stack development**.
+- 🌱 My experience spans across **Software Development, Ai Engineering, and distributed systems**.
 
-- 👯 I'm currently looking to collaborate on **Computer Vision Projects**.
-
-- 💬 Currently, looking for **Internship roles in Machine learning and Software development** for **Summer 2025**.
+- 💬 Currently, looking for **full time roles in Software development and AI Engineer**.
 
 - 📫 Reach me at **v.kamdi@gwu.edu**
 ## 📫 Connect with me
