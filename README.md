@@ -4,11 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=vaish725&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 🔭 I recently finished MS in Computer Science from **The George Washington University** 
+- 🔭 I completed my MS in Computer Science from **The George Washington University** in May 2026.
 
-- 🌱 My experience spans across **Software Development, Ai Engineering, Backend architecture and distributed systems**.
+- 🌱 My experience spans across **Software Development, AI Engineering, Backend architecture and distributed systems**.
 
-- 💬 Currently, looking for **full time roles in Software development and AI Engineer**.
+- 💬 Currently, looking for **full time roles in Software development and AI Engineering**.
 
 - 📫 Reach me at **vaishnaviskamdi@gmail.com**
 ## 📫 Connect with me
