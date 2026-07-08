@@ -64,7 +64,6 @@
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaish725&show_icons=true&locale=en&layout=compact" alt="vaish725" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaish725" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=vaish725" alt="GitHub Streak" />
 </div>
-
 
